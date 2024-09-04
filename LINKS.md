@@ -4,7 +4,7 @@ In this class we will use the following open-source numerical tools:
 
 - `gmsh`: Advanced meshing tool (https://gmsh.info)
 
-- `dolfinx`: the finite element library, see https://docs.fenicsproject.org/dolfinx/v0.6.0/python/api.html.
+- `dolfinx`: the finite element library, see https://docs.fenicsproject.org/dolfinx/v0.8.0/python/api.html.
 
      FEniCSx is a popular open-source computing platform for solving partial differential equations (PDEs). FEniCSx enables users to quickly translate scientific models into efficient finite element code. With the high-level Python and C++ interfaces to FEniCSx, it is easy to get started, but FEniCSx offers also powerful capabilities for more experienced programmers. FEniCSx runs on a multitude of platforms ranging from laptops to high-performance clusters.
 
@@ -23,11 +23,12 @@ In this class we will use the following open-source numerical tools:
 
 You find below some useful online references classified by topic
 
-# FEniCS
+# FEniCSx
 * Website https://fenicsproject.org
-* Documentation
+* J. S. Dokken tutorial for Sorbonne Université: https://jsdokken.com/FEniCS23-tutorial/README.html
+* Further Documentation
    1. First this tutorial, Chap 2 being the good starting point: https://jsdokken.com/dolfinx-tutorial/index.html
-   2. https://docs.fenicsproject.org/dolfinx/v0.6.0/python/
+   2. https://docs.fenicsproject.org/dolfinx/v0.8.0/python/
    4. UFL: https://fenics.readthedocs.io/projects/ufl/en/latest/manual.html
    5. Source https://github.com/FEniCS/dolfinx
    6. Examples of application to solid mechanics: 

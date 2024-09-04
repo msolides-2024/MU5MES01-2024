@@ -1,4 +1,4 @@
-# Calcul numérique des solides et structures non-linéaires 2022-2023
+# Calcul numérique des solides et structures non-linéaires 2024-2025
 
 This repository collects the material to the class MU5MES01 of the Solid Mechanics Master of [Sorbonne Université](https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/masters/master-de-mecanique/parcours-mecanique-des-solides-et) and [ENPC](https://ecoledesponts.fr/)
 
