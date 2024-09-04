@@ -1,6 +1,6 @@
 # Calcul numérique des solides et structures non-linéaires 2022-2023
 
-This repository collects the material to the class MU5MES01 of the Solid Mechanics Master of [Sorbonne Université](http://master.spi.sorbonne-universite.fr/fr/mecanique-des-solides-et-des-structures.html) and [ENPC](ww.enpc.fr)
+This repository collects the material to the class MU5MES01 of the Solid Mechanics Master of [Sorbonne Université](https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/masters/master-de-mecanique/parcours-mecanique-des-solides-et) and [ENPC](https://ecoledesponts.fr/)
 
 * Teachers:
 
@@ -10,7 +10,7 @@ This repository collects the material to the class MU5MES01 of the Solid Mechani
 
     * Sébastien Neukirch (sebastien.neukirch@sorbonne-universite.fr)
 
-* You can find help on how to install and use FEniCS in [INSTALL.md](INSTALL.md)
+* You can find help on how to install and use FEniCS in [CISM course by Jack Hale](https://jhale.github.io/cism-2024-varfrac-code/README.html)
 
 * You can find some links to online resources in the file [LINKS.md](LINKS.md)
 
@@ -22,7 +22,7 @@ In this class we will use the following open-source numerical tools:
 
 - `gmsh`: Advanced meshing tool (https://gmsh.info)
 
-- `dolfinx`: the finite element library, see https://docs.fenicsproject.org/dolfinx/v0.5.1/python/api.html.
+- `dolfinx`: the finite element library, see https://docs.fenicsproject.org/dolfinx/v0.8.0/python/api.html.
 
      FEniCSx is a popular open-source computing platform for solving partial differential equations (PDEs). FEniCSx enables users to quickly translate scientific models into efficient finite element code. With the high-level Python and C++ interfaces to FEniCSx, it is easy to get started, but FEniCSx offers also powerful capabilities for more experienced programmers. FEniCSx runs on a multitude of platforms ranging from laptops to high-performance clusters.
 
