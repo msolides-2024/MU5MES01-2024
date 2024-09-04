@@ -2,7 +2,7 @@
 
 This is the preliminary program
 
-## Part I - Linear Elasticity
+## Part I - Introduction to FEniCSx and Linear Elasticity
  * 27/09 Introduction to the course
   
     - 8h30 - 9h30 General introduction (D. Duhamel)
@@ -14,7 +14,7 @@ This is the preliminary program
  * 04/10 Introduction to FEniCSx
 
     - 8h30 - 9h30 Seminar by Jørgen S. Dokken 1/2
-    - 9h30 - 12h30 Hands on session in salle de TP (D.Duhamel/C.Lestringant/S.Neukirch/JS Dokken): Laplacian from fenicsx tutorial and linear elasticity demo (cantilever beam - TP1)
+    - 9h30 - 12h30 Hands on session in salle de TP (D.Duhamel/C.Lestringant/S.Neukirch/J.S. Dokken): Laplacian from fenicsx tutorial and linear elasticity demo (cantilever beam - TP1)
     
 Homework: 1. Study the Chapters 1-4 of the tutorial [1] 2. Run Laplacian example from 3. Prepare a list of questions
 
