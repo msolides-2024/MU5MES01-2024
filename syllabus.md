@@ -31,7 +31,7 @@ Homework: 1. Study the Chapters 1-4 of the tutorial [1] 2. Run Laplacian example
   * 25/10 Introduction and basic tutorial 
     - 8h30 - 10h30 Introductory lecture (C. Lestringant) 
     - 10h30 - 12h30 Basic tutorial
-  * 08/11 TP3 TP3 - Explicit implementation of a Newton solver
+  * 08/11 TP3 - Explicit implementation of a Newton solver
 
 ## Part III - Dynamics
   * 15/11 Introduction and basic tutorial
