@@ -37,9 +37,8 @@ Homework: 1. Study the Chapters 1-4 of the tutorial [1] 2. Run Laplacian example
   * 15/11 Introduction and basic tutorial
     - 8h30 - 10h30 Introductory Lecture (D. Duhamel)
     - 10h30 - 12h30 Basic tutorial
-  * 22/11 TP4 Dynamics, 2D rectangle (linear setup)
-  * 29/11 TP5 Advanced project: Bifurcation and stability analysis (snapping of a beam)
-  * 06/12 TP5 Continued
+  * 22/11 TP4 Dynamics, 2D rectangle (linear setup) + TP5 (start)
+  * 06/12 TP5 Advanced project: Bifurcation and stability analysis (snapping of a beam)
     
     => submit the 4 pages report before thursday 12th december 2024
 
