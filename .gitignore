@@ -140,8 +140,6 @@ notebooks/01-linear-elasticity/mesh.msh
 *.xmdf
 
 # vscode
-
-
 .DS_Store
 .xdmf
 .h5
