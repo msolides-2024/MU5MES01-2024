@@ -19,6 +19,7 @@ ADD pyproject.toml /tmp/pyproject.toml
 RUN python3 -m pip install --no-cache-dir --no-binary=h5py -v .
 RUN python3 -m pip cache purge
 RUN jupyter lab build
+RUN pip install -r requirements.txt
 
 # Copy home directory for usage in binder
 WORKDIR ${HOME}
