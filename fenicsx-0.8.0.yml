@@ -1,0 +1,18 @@
+name: fenicsx-0.8.0
+channels:
+  - conda-forge
+dependencies:
+  - fenics-dolfinx==0.8.0
+  - meshio
+  - h5py
+  - matplotlib
+  - pandas
+  - python
+  - pyvista
+  - panel
+  - seaborn
+  - tqdm
+  - jupyter-book
+  - python-gmsh
+  - gmsh
+  - mesa-libgl-devel-cos7-x86_64
