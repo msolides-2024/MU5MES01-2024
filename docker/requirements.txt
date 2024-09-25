@@ -3,30 +3,3 @@ sympy
 scipy 
 pyaml
 cython
-
-# Pyvista
-vtk
-pyvista
-
-# Jupyter-book
-jupyter-book
-nbconvert
-jupytext
-
-# Meshio and gmsh
-#meshio
-gmsh
-
-
-# Visualization with pandas
-seaborn
-pandas
-
-# Progress bar
-tqdm
-
-# add pytest and nbmake
-pytest
-pytest-xdist 
-nbmake
-ipyparallel
