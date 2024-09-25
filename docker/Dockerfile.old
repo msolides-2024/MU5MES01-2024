@@ -4,7 +4,7 @@ FROM ghcr.io/fenics/dolfinx/lab:v0.8.0
 ARG NB_USER
 ARG NB_UID=1000
 ENV USER ${NB_USER}
-ENV HOME /home/${NB_USER
+ENV HOME /home/${NB_USER}
 ENV PYVISTA_JUPYTER_BACKEND="static"
 
 # Requirements for pyvista (gl1 and render1) and jupyterlab (nodejs and curl)
