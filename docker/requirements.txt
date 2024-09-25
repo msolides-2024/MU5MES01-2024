@@ -2,6 +2,7 @@
 sympy
 scipy 
 pyaml
+cython
 
 # Pyvista
 vtk
