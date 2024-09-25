@@ -1,0 +1,17 @@
+{   "name": "FEniCSx-0.8.0",
+    "build":{"dockerfile": "../docker/Dockerfile"},
+	"customizations": {
+		"vscode": {
+			"extensions": [
+                "ms-python.python",
+				"ms-python.vscode-pylance",
+                "ms-toolsai.jupyter",
+                "ms-vscode.azurecli",
+                "kevinrose.vsc-python-indent",
+                "ms-python.debugpy",
+                "donjayamanne.python-extension-pack",
+                "charliermarsh.ruff",
+            ],
+            }
+		}
+}
