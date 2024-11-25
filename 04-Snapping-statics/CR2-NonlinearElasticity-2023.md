@@ -24,7 +24,7 @@ Your report should summarize and present synthetically your work on these items 
 - In the written report you should correctly formulate each mathematical problem solved but you should not report all the details of the derivation of the formulation. You will be asked about that during the oral examination.
 
 **Important informations:**
-  - Deadline: **Wednesday 12 December 2024, 11pm**.
+  - Deadline: **Wednesday 11 December 2024, 11pm**.
   - **The maximal length of the report is 4 pages (plus a title page).**
   - To submit your report:
       - An electronic version should be uploaded on [moodle](https://moodle-sciences-23.sorbonne-universite.fr/course/view.php?id=2359), it should include
